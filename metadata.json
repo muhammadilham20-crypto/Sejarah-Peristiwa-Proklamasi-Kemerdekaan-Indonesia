@@ -1,0 +1,6 @@
+{
+  "name": "Lorong Waktu Kemerdekaan",
+  "description": "Media Pembelajaran Interaktif Pendidikan Pancasila Kelas 7 SMP: Sejarah Proklamasi Kemerdekaan Indonesia 1945.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
